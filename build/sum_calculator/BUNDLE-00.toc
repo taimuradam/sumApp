@@ -1,0 +1,3 @@
+([('sum_calculator',
+   '/Users/taimuradam/Desktop/Code/dist/sum_calculator',
+   'EXECUTABLE')],)
